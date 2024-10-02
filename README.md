@@ -11,7 +11,6 @@ To Do list
         <li>Add option to change if you're adding a weapon or spell</li>
         <li>Runes</li>
 Greater Goals
-
         <li>Make health persistent with option to reset it</li>
         <li>Add option to switch attacker and defender</li>
         <li>Add a meets it beats it option to chance DC/AC requirement</li>
